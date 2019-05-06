@@ -1,0 +1,8 @@
+[package]
+name = "f1udp"
+version = "0.1.0"
+authors = ["Paul Russo <paul@paulrusso.me>"]
+edition = "2018"
+
+[dependencies]
+byteorder = "^1.1.0"
